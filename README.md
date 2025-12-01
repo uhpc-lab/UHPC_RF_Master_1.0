@@ -11,7 +11,7 @@ Currently, it contains the following reactor modules, with more under developmen
 For the Constant-Volume Reactor Module, please cite:
 
 1. M. Wang, R. Tang, X. Ren, Y. Cui, MMJ. Li, SY. Leu, CSK. Lin, S. Cheng*, Ab initio intermolecular interactions mediate thermochemically real-fluid effects that affect system reactivity: The first application of high-order Virial EoS and first-principles multi-body potentials in trans-/super-critical autoignition modelling, Combust. Flame 272 (2025) 113844. https://doi.org/10.1016/j.combustflame.2024.113844
-2. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Hongqing Wu, Yuxin Dong, Ting Zhang, Song Cheng*, Comprehensive characterization of real-fluid effects on autoignition behavior via high-order Virial equation of state coupled with ab initio multi-body intermolecular potentials, Combustion and Flame, under review.
+2. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Hongqing Wu, Yuxin Dong, Ting Zhang, Song Cheng*, Comprehensive characterization of real-fluid effects on autoignition behavior via high-order Virial equation of state coupled with ab initio multi-body intermolecular potentials, Fuel, Fuel 407 (2026) 137587. https://doi.org/10.1016/j.fuel.2025.137587
    
 For the Jet-Stirred Reactor Module, please cite:
 
